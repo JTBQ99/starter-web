@@ -14,4 +14,5 @@ Simple web project
 
 ## How to Contribute
 
-## Unstaged changes
+## Copyright
+Copyright 2015
