@@ -17,4 +17,4 @@ Simple web project
 Just fork this off to your own and pull 
 
 ## Copyright
-Copyright 2015
+Copyright December 2015 All rights reserved
