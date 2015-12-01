@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 Simple web project
 
 ## How to Contribute
+Just fork this off to your own and pull 
 
 ## Copyright
 Copyright 2015
